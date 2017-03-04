@@ -1,0 +1,206 @@
+body {
+/*background-color:rgba(228,227,227,1.00);*/
+background-color:#2b2b2b;
+width:900px;
+position:relative
+
+}
+
+.Container {
+width:900px;
+height:auto;
+clear:both;
+overflow:hidden;
+/*background-color:#fff;*/
+background-color:#2b2b2b;
+margin:40px auto;
+margin-left:25%;
+margin-bottom:25px;
+position:relative;
+border:1px solid #fff;
+border-radius:20px;
+-webkit-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+-moz-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+box-shadow:7px 9px 23px 10 rgba(92,89,92,1);
+
+
+}
+
+#Header {
+height:65px;
+width:177px;
+background-image:url(../img/Maske_1.jpg);
+background-repeat:no-repeat;
+margin-top:30px;
+margin-bottom:30px;
+border:1px solid #fff;
+border-radius:20px;
+margin-left:40px;
+white-space:nowrap;
+-webkit-box-shadow:9px 9px 23px 0 rgba(92,89,92,1);
+-moz-box-shadow:9px 9px 23px 0 rgba(92,89,92,1);
+box-shadow:9px 9px 23px 0 rgba(92,89,92,1);
+
+}
+#Headertext {
+font-family:Georgia;Arial, Helvetica, sans-serif;
+font-style:italic;
+color:#919191;
+font-weight:bold;
+font-size:30px;
+margin:15px 0px 0px 355px;
+
+
+
+}
+
+.Menu {
+height:50px;
+
+
+}
+
+.LeftBody {
+width:250px;
+float:left;
+height:auto;
+min-height:550px;
+margin:20px;
+}
+
+.RightBody {
+width:550px;
+float:right;
+height:auto;
+min-height:550px;
+margin:20px;
+}
+
+.FormElement {
+width:370px;
+height:17px;
+margin:45px 120px 6px;
+
+}
+
+.TField {
+width:370px;
+height:24px;
+border:1px solid #E0DFDF;
+border-radius:8px;
+padding-left:10px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:15px;
+
+
+}
+.button {
+width:200px;
+height:30px;
+border:1px solid #FFF;
+border-radius:10px;
+background-color:#CCC;
+color:#FFF;
+font-size:21px;
+-webkit-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+-moz-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+margin-top:25px;
+
+
+}
+
+.button:hover {
+background-color:#999;
+color:#CCC;
+}
+
+.Footer {
+line-height: 8px;
+position:relative;
+bottom: 0;
+width: 100%;
+height: 40px;
+width: 900px;
+text-align: center;
+margin:0;
+padding:0;
+margin-left:25%;
+line-height:7px;
+color:#BABABA;
+background-color:rgb(43, 43, 43);
+/*border-bottom:4px solid rgb(212, 76, 50);*/
+/*border-bottom:2px solid white;*/
+border:1px solid #fff;
+border-radius:20px;
+-webkit-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+-moz-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:17px;
+font-weight:lighter;
+}
+
+.img {
+height:262px;
+width:177px;
+margin-top:26px;
+border:1px solid #FFF;
+border-radius:20px;
+margin-left:20px;
+-webkit-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+-moz-box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+box-shadow:7px 9px 23px 0 rgba(92,89,92,1);
+}
+
+.Messages {
+
+font-family:Arial, Helvetica, sans-serif;
+font-size: 17px;
+color:#fff;
+margin:300px 0px 0px 0px;
+
+
+}
+
+.h1 {
+font-family:Arial, Helvetica, sans-serif;
+/*color:#333;*/
+color:white;
+font-size:27px;
+margin-top:40px;
+margin-bottom:45px;
+}
+
+h2 {
+font-family:Arial, Helvetica, sans-serif;
+color:#666;
+fontweight:lighter;
+margin:0;
+}
+
+h6 {
+font-family:Arial, Helvetica, sans-serif;
+color:solid white;
+font-size:15px;
+font-weight:lighter;
+margin:0;
+}
+
+a:visited {
+color:#999;
+text-decoration:none;
+}
+
+a:hover {
+color:#fff;
+text-decoration:none;
+border:1px solid white;
+border-radius: 8px;
+margin:-2px;
+
+}
+
+a:link,a:active {
+color:grey;
+text-decoration:none;
+}
